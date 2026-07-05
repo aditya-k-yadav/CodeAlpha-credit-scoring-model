@@ -87,7 +87,7 @@ You'll see all metrics printed in the terminal, and the CSV/PNG output files wil
 
 ## 📜 License
 
-This project is open-source and intended for learning purposes.
+MIT
 
 ---
 
